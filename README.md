@@ -1,4 +1,4 @@
-# BlackJack Vite - Curso de Javascript con Fernando Herrera
+# BlackJack Vite
 
 Pasos para ejecutar el proyecto:
 
@@ -12,3 +12,6 @@ Pasos para ejecutar el proyecto:
 1. Ejecutar ```npm run build````
 2. Tomar la capeta ```dist```y desplegarla
 3. Listo!
+
+
+### Curso de Javascript con Fernando Herrera
