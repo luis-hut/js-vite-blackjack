@@ -9,7 +9,7 @@ Pasos para ejecutar el proyecto:
 
 ## Producción
 
-1. Ejecutar ```npm run build````
+1. Ejecutar ```npm run build```
 2. Tomar la capeta ```dist```y desplegarla
 3. Listo!
 
